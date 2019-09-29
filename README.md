@@ -1,2 +1,2 @@
-# moved_to_gitlab
+# also_on_gitlab
 https://gitlab.com/IncognitoJam
