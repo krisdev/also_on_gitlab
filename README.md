@@ -5,4 +5,4 @@ also not on gitlab
 
 # also_on_codefeedback
 
-https://codefeedback.lancs.ac.uk/scc230/cloughc
+https://codefeedback.lancs.ac.uk/git230/cloughc
